@@ -39,4 +39,4 @@ POST /predict
 ```
 
 ## Live Deployment
-[Add your Railway deployment link here]
+hw-ev-battery-production.up.railway.app
